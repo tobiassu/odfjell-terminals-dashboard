@@ -34,9 +34,9 @@ relevant to the Terminals division.
 - Occupancy rate declined significantly from Q2 2024, driven 
   by softer demand in the US and Asian markets, while the 
   Noord Natie (Antwerp) terminal maintained stable performance
-- Regional EBITDA reflects 100% ownership basis; reported 
-  Odfjell Terminals EBITDA reflects Odfjell's equity share 
-  across jointly owned terminals
+- Regional EBITDA reflects Odfjell's equity share per terminal.
+  The total reported figure is lower as it also captures corporate ¨
+  costs and non-recurring items not allocated to individual regions.
 - TCE has declined from peak levels in early 2024 but remains 
   at historically strong levels
 
